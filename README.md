@@ -7,7 +7,6 @@ I am currently enrolled in three CompSci classes this semester with a track to f
 Current courses:
 
 CSC 2150 - Data Structures and Algorithms (Java)
-
 CSC 2200 - Web Application Development (Javascript, CSS, HTML)
 
 CSC 2450 - Operating System Admin (Oracle/Ubuntu Virtual Box, Bash Scripting)
