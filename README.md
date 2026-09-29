@@ -1,20 +1,22 @@
 # Hi there 👋
 
 I'm Meier, a college junior Cybersecurity and Computer Science student at Aurora University.
+*he/him*
 
 I am currently enrolled in three CompSci classes this semester with a track to finish the remaining two years of my schooling focusing only on Cyber and CS courses.
 
 ### Current courses:  
-CSC 2150 - Data Structures and Algorithms (Java)  
-CSC 2200 - Web Application Development (Javascript, CSS, HTML)  
-CSC 2450 - Operating System Admin (Oracle/Ubuntu Virtual Box, Bash Scripting)
+CSC 3250 - Object Oriented Design (Java)  
+CSC 3700 - Advanced Web Application Development (Javascript, CSS, HTML)  
+CYB 1100 - Foundations of Cybersecurity
+CYB 3400 - Enterprise Security (Virtual Machines)
 
 ### Areas I am developing my skills in:  
 Object Oriented Design  
-Java, Javascript, and HTML syntax  
+Java, Javascript, and HTML  
 Data structure fundamentals such as binary search trees and hashing
 
-In my own time, I am currently working on a Battle Ship program, written in C++, playable completely in the terminal, which I would like to port into a graphical interface and add visuals to. The frame works for this program can be found here.
+In my own time, I am currently working on a Battle Ship program, written in C++, playable completely in the terminal, which I would like to port into a graphical interface and add visuals to. The frameworks for this program can be found here.
 
 ### You can reach me by Email, on LinkedIn, or through Discord:  
 MeierWGlab@gmail.com  
