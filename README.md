@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm Meier, a college junior Cybersecurity and Computer Science student at Aurora University.
+
 *he/him*
 
 I am currently enrolled in three CompSci classes this semester with a track to finish the remaining two years of my schooling focusing only on Cyber and CS courses.
