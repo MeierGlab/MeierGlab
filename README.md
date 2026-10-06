@@ -9,7 +9,7 @@ I am currently enrolled in three CompSci classes this semester with a track to f
 ### Current courses:  
 CSC 3250 - Object Oriented Design (Java)  
 CSC 3700 - Advanced Web Application Development (Javascript, CSS, HTML)  
-CYB 1100 - Foundations of Cybersecurity
+CYB 1100 - Foundations of Cybersecurity  
 CYB 3400 - Enterprise Security (Virtual Machines)
 
 ### Areas I am developing my skills in:  
