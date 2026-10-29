@@ -15,7 +15,7 @@ CYB 3400 - Enterprise Security (Virtual Machines)
 ### Areas I am developing my skills in:  
 Object Oriented Design  
 Java, Javascript, and HTML  
-Data structure fundamentals such as binary search trees and hashing
+Web development concepts using React and Node in Webstorm
 
 In my own time, I am currently working on a Battle Ship program, written in C++, playable completely in the terminal, which I would like to port into a graphical interface and add visuals to. The frameworks for this program can be found here.
 
